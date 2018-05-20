@@ -11,7 +11,7 @@ To run the scripts as-is, you'll need a working installation of Jupyter Notebook
 
 To reproduce Figs. 1–4 in Langenbrunner and Neelin (2017), access the appropriate notebooks via the ```SCRIPTS``` directory.  This is downloaded if you clone the ```moose``` repository.
 
-You'll also need to download the ```DATA``` folder, which is stored as a zipped directory on Google Drive [here](https://drive.google.com/file/d/1MNcl8nYhaHLvkQ1kfOdQCnG8tSSVcks4/view?usp=sharing).  Unzip this directory into the moose repository to give scripts access to all the necessary data.
+You'll also need to download the ```DATA``` folder, which is stored as a zipped directory on Google Drive [here](https://drive.google.com/file/d/1MNcl8nYhaHLvkQ1kfOdQCnG8tSSVcks4/view?usp=sharing).  Unzip this directory into the moose repository to give scripts access to all the necessary data.  __Note:  ```DATA.zip``` is ~550 MB, and unzipped it expands to ~1.5 GB.__
 
 The ```DATA``` folder contains:
 * December-January-February average precipitation, 200 hPa wind, and skin temperature for 36 CMIP5 models in the ```DATA/cmip5_data``` directory, for:
