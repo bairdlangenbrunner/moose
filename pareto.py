@@ -1,7 +1,7 @@
 """
 Copyright (C) 2013 Matthew Woodruff and Jon Herman.
 
-Modified by Baird Langenbrunner (2016-2018) for application to climate model
+Modified by Baird Langenbrunner (2017) for application to climate model
 parameter optimization and constraint analyses.
 
 This script is free software: you can redistribute it and/or modify
