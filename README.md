@@ -14,9 +14,9 @@ To reproduce Figs. 1–4 in Langenbrunner and Neelin (2017), access the appropri
 You'll also need to download the ```DATA``` folder, which is stored as a zipped directory on Google Drive [here](https://drive.google.com/file/d/1MNcl8nYhaHLvkQ1kfOdQCnG8tSSVcks4/view?usp=sharing).  Unzip this directory into the moose repository to give scripts access to all the necessary data.
 
 The ```DATA``` folder contains:
-* December-January-February average precipitation, 200 hPa wind, and skin temperature for 36 CMIP5 models in the ```DATA/cmip5_data``` directory
-  * During 1980-2010 for historical period climatologies
-  * And during 2070-2100 for end-of-century change calculations
-* Precipitation, 200 hPa wind, and SST observations in the ```DATA/obs_data``` directory
+* December-January-February average precipitation, 200 hPa wind, and skin temperature for 36 CMIP5 models in the ```DATA/cmip5_data``` directory, for:
+  * 1980-2010 (historical period climatologies)
+  * 2070-2100 (end-of-century change calculations)
+* Precipitation, 200 hPa wind, and SST observations during DJF 1980-2010 in the ```DATA/obs_data``` directory
 * Pre-calculated Pareto front information to reproduce Figs. 1–4 in the ```DATA/subensemble_data```
 * Some miscellaneous ```.npy``` and NetCDF4 files for applying land masks and other final steps
